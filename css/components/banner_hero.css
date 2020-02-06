@@ -1,0 +1,23 @@
+.banner {
+    padding-top: 100px;
+    margin: 0;
+    height: 200px;
+    background-size: cover;
+    text-align: start;
+    color: white;
+    padding-left: 150px;
+}
+
+.banner .btn {
+  text-decoration: none;
+  background-color: #3a9a3a;
+  border-radius: 5px;
+  padding: 10px 20px;
+  color: white;
+  transition: ease 1s
+}
+
+.btn:hover {
+  padding: 11px 21px;
+  background-color: #68de68;
+}
